@@ -14,7 +14,7 @@ Este é um exemplo de aplicação Python para geração automatizada de certific
 1. Clone este repositório:
 
     ```
-    git clone https://github.com/Eduardoss45/gerador_de_certificado.git
+    git clone https://github.com/Eduardoss45/gerador-de-certificado.git
     ```
 
 2. Instale as dependências:
